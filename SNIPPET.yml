@@ -1,0 +1,2 @@
+- name: Hello Setup Node
+  uses: jamirandac/setup-node-2@v1.0.0
